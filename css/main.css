@@ -1,0 +1,20 @@
+.head-image{
+  height: 35vh;
+  width: 100%;
+  background-image: url('../images/cover2.png');
+  box-shadow: inset 0 0 0 99999px rgba(0, 0, 0, 0.7);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.btn-outline-pink{
+  border-color:#ff006b !important;
+  color:#ff006b;
+}
+.btn-outline-pink:hover{
+  background:#ff006b !important;
+  color:#FFF !important;
+}
+.btn-outline-pink:focus,
+.btn-outline-pink.focus {
+    box-shadow: 0 0 0 .2rem #ff006b7a;
+}

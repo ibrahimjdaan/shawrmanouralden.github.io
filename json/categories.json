@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "شاورما",
+    "main-category": true,
+    "image": "Untitled design.png"
+  },
+{
+    "id": 2,
+    "title": "ساندويش",
+    "main-category": false,
+    "category":1
+  },
+{
+    "id": 3,
+    "title": "وجبات",
+    "main-category": false,
+    "category":1
+  },
+{
+    "id": 4,
+    "title": "بالوزن",
+    "main-category": false,
+    "category":1
+  },
+
+{
+    "id": 5,
+    "title": "سناك",
+    "main-category": true,
+    "image": "snacks.png"
+  },
+{
+    "id": 6,
+    "title": "ساندويش",
+    "main-category": false,
+    "category":5
+  },
+{
+    "id": 7,
+    "title": "وجبات",
+    "main-category": false,
+    "category":5
+  },
+
+{
+    "id": 8,
+    "title": "المقبلات",
+    "main-category": true,
+    "image": "Untitled design (2).png"
+},
+{
+    "id": 9,
+    "title": "المشروبات",
+    "main-category": true,
+    "image": "Untitled design (1).png"
+}
+]
